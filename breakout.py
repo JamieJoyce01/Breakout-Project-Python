@@ -75,7 +75,7 @@ class LiveText: #Difference between text and live text is that live text needs t
         
 
 game = pygame.display.set_mode(xy, pygame.DOUBLEBUF | pygame.HWSURFACE | pygame.FULLSCREEN)
-pygame.display.set_caption("Google Breakout - Jamie Joyce")
+pygame.display.set_caption("Breakout Game - Jamie Joyce")
 backgroundcolour = pygame.Color(0,0,0,0)
 
 blocklist = []
